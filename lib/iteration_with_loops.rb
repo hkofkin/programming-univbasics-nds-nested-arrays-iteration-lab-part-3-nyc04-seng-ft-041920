@@ -19,5 +19,5 @@ def join_nested_strings(src)
     outer_count += 1
   end
   
-  joined_strings
+  puts joined_strings
 end
